@@ -98,4 +98,4 @@ Because for each element, you scan the remaining elements to find the smallest o
 
 The complete implementation can be found here:
 
-➡️ [View selection sort implementation](code/selection_sort.py)
+➡️ [View selection sort implementation](../code/factorialrecursive.py)
