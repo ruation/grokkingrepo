@@ -68,7 +68,7 @@ The goal of this project is to strengthen my understanding of fundamental algori
 - [x] Chapter 5 – Hash Tables
 - [x] Chapter 6 – Breadth-First Search (BFS)
 - [x] Chapter 7 – Dijkstra's Algorithm
-- [ ] Chapter 8 – Greedy Algorithms
-- [ ] Chapter 9 – Dynamic Programming
-- [ ] Chapter 10 – K-Nearest Neighbors
-- [ ] Chapter 11 – Where to Go Next
+- [x] Chapter 8 – Greedy Algorithms
+- [x] Chapter 9 – Dynamic Programming
+- [x] Chapter 10 – K-Nearest Neighbors
+- [x] Chapter 11 – Where to Go Next
