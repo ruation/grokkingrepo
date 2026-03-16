@@ -99,3 +99,7 @@ Because for each element, you scan the remaining elements to find the smallest o
 The complete implementation can be found here:
 
 ➡️ [View selection sort implementation](../code/selection_sort.py)
+
+# Chapter 2 exercises
+
+➡️ [Exercises](../exercises/chapter-02-exercises.md)

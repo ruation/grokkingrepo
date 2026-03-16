@@ -28,3 +28,7 @@ It focuses on:
 
 Big O does not measure seconds.
 It measures how performance scales with input size.
+
+# Chapter 1 exercises
+
+➡️ [Exercises](../exercises/chapter-01-exercises.md)

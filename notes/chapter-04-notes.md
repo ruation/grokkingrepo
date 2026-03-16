@@ -78,3 +78,7 @@ Then sort [5, 2, 3] recursively.
 # Big O notations
 
 the constant can matter sometimes. That's why quicksort is faster than merge sort.
+
+# Chapter 4 exercises
+
+➡️ [Exercises](../exercises/chapter-04-exercises.md)

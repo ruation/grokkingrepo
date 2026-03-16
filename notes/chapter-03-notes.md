@@ -66,3 +66,7 @@ LIFO (Last In, First Out)
 - This means:
 
 The last function called is the first one to finish.
+
+# Chapter 3 exercises
+
+➡️ [Exercises](../exercises/chapter-03-exercises.md)
