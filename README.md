@@ -24,9 +24,9 @@ The goal of this project is to strengthen my understanding of fundamental algori
 - Quicksort ➡️ [Notes 4](notes/chapter-04-notes.md)
 - Hash Tables ➡️ [Notes 5](notes/chapter-05-notes.md)
 - Breadth-First Search (BFS) ➡️ [Notes 6](notes/chapter-06-notes.md)
-- Dijkstra’s Algorithm [Notes 7](notes/chapter-06-notes.md)
-- Greedy Algorithms [Notes 8](notes/chapter-06-notes.md)
-- Dynamic Programming [Notes 9](notes/chapter-06-notes.md)
+- Dijkstra’s Algorithm ➡️ [Notes 7](notes/chapter-06-notes.md)
+- Greedy Algorithms ➡️ [Notes 8](notes/chapter-06-notes.md)
+- Dynamic Programming ➡️ [Notes 9](notes/chapter-06-notes.md)
 
 ---
 
@@ -71,8 +71,8 @@ This repository contains my notes, exercises, and code implementations based on 
 - [x] Chapter 4 – Quicksort ➡️ [Notes](notes/chapter-04-notes.md)
 - [x] Chapter 5 – Hash Tables ➡️ [Notes](notes/chapter-05-notes.md)
 - [x] Chapter 6 – Breadth-First Search (BFS) ➡️ [Notes](notes/chapter-06-notes.md)
-- [x] Chapter 7 – Dijkstra's Algorithm [Notes](notes/chapter-07-notes.md)
-- [x] Chapter 8 – Greedy Algorithms [Notes](notes/chapter-08-notes.md)
-- [x] Chapter 9 – Dynamic Programming [Notes](notes/chapter-09-notes.md)
-- [x] Chapter 10 – K-Nearest Neighbors [Notes](notes/chapter-10-notes.md)
-- [x] Chapter 11 – Where to Go Next [Notes](notes/chapter-11-notes.md)
+- [x] Chapter 7 – Dijkstra's Algorithm ➡️  [Notes](notes/chapter-07-notes.md)
+- [x] Chapter 8 – Greedy Algorithms ➡️ [Notes](notes/chapter-08-notes.md)
+- [x] Chapter 9 – Dynamic Programming ➡️ [Notes](notes/chapter-09-notes.md)
+- [x] Chapter 10 – K-Nearest Neighbors ➡️ [Notes](notes/chapter-10-notes.md)
+- [x] Chapter 11 – Where to Go Next ➡️ [Notes](notes/chapter-11-notes.md)
